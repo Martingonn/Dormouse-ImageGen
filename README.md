@@ -18,3 +18,19 @@ How to create python virtual environment:
 4. Download required dependencies from the "required.txt" file using "pip install -r required.txt"
 5. Run the script, follow instructions in terminal.
    If Python tells you that you don't have required libraries installed even though you do, try running the script with "python" instead of "python3". Example: instead of "python3 dormouse10.py" do "python dormouse10.py"
+
+# How to train
+1. Before running script, create a folder with training images.
+2. Make a folder with training images.
+3. Make a .txt file with image descriptions in the order they are segregated in the folder. The description file should look like this:
+  A small, cute European hedgehog in field of shamrocks, looking right
+  Small, cute hedgehog in hand, looking left
+  A tiny, young hedgehog, looking forward, transparent background
+4. Follow the instructions. When pasting file paths, remove the "" signs. Input C:path/to/your/file instead of "C:path/to/yout/file"
+
+# Future Additions
+* Add a way to use model training
+* Test .exe on windows without python/python libraries
+
+# Downloads
+![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Dormouse-ImageGen/total)
