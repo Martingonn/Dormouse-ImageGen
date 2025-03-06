@@ -5,6 +5,8 @@ Development was started on March 1st, 2025, by Marcin Jacek Chmiel.
 # Contributors 
 As of now, there are no more contributors than the original author.
 If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com*
+# Disclaimer!!!
+**Do not use the model in any illegal way!** Guardrail removal is only for advancing your creativity!
 # How to use
 1. Download the files from the release you need.
 2. Ensure you have Python 3.11 and up for best compatibility (the code did not work for me on lower versions). If you use older python versions for other scripts, I recommend to create a virtual environment.
