@@ -34,6 +34,9 @@ How to create python virtual environment:
 # Future Additions
 * Add a way to use model training
 * Test .exe on windows without python/python libraries
+* config file to implement guardrails
+* a way to train off databases
+* the model resizing images for training
 
 # Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Dormouse-ImageGen/total)
