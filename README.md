@@ -1,5 +1,5 @@
-# What is it
-Dormouse is a StableDiffusion-based AI Image generator that is completely free and does not collect any data.
+# What is it?
+Dormouse is a StableDiffusion-based AI Image generator that is completely free and does not collect any data. It can also be trained.
 # Original Author 
 Development was started on March 1st, 2025, by Marcin Jacek Chmiel.
 # Contributors 
