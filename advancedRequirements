@@ -17,6 +17,4 @@ future
 six 
 requests 
 dataclasses
-torch==2.6.0+cpu
-torchvision==0.21.0+cpu
-torchaudio==0.13.0+cpu
+
