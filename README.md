@@ -38,6 +38,7 @@ How to create python virtual environment:
 * Test .exe on windows without python/python libraries
 * config file to implement guardrails
 * a way to train off databases
+  # Done
 * the model resizing images for training
 
 # Downloads
