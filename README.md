@@ -9,6 +9,11 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
 If you want to join the newsletter, send me your receiving e-mail adress to *martingonn-dev@outlook.com*. Your data will not be sold or distributed in any way.
 # Disclaimer!!!
 **Do not use the model in any illegal way!** Guardrail removal is only for advancing your creativity!
+# File naming convention
+* Dormouse is the model name, I have it because I develop many other projects. That way, I know what code it is without opening.
+* Generator is the image generation client, Trainable is the training client
+* 10 is Generator version, 20 is Trainable version
+* SD13 means Stable Diffusion 13, using it right now, but I will add full SD selection later.
 # How to use
 1. Download the files from the release you need.
 2. Ensure you have Python 3.11 and up for best compatibility (the code did not work for me on lower versions). If you use older python versions for other scripts, I recommend to create a virtual environment.
@@ -34,7 +39,9 @@ How to create python virtual environment:
 4. Follow the instructions. When pasting file paths, remove the "" signs. Input C:path/to/your/file instead of "C:path/to/yout/file"
 
 # Future Additions
-* Add a way to use model training
+* Changing Stable Diffusion version
+* (Maybe) adding other models
+* Add a way to use model training (load from file)
 * Test .exe on windows without python/python libraries
 * config file to implement guardrails
 * a way to train off databases
