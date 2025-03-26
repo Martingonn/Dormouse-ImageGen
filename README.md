@@ -12,8 +12,10 @@ If you want to join the newsletter, send me your receiving e-mail adress to *mar
 # File naming convention
 * Dormouse is the model name, I have it because I develop many other projects. That way, I know what code it is without opening.
 * Generator is the image generation client, Trainable is the training client
-* 10 is Generator version, 20 is Trainable version
-* SD13 means Stable Diffusion 13, using it right now, but I will add full SD selection later.
+* 1x is Generator version, 2x is Trainable version
+* SD13 means Stable Diffusion 13
+* NOAUTH means the client can use every single SD version that doesn't require authentication with HuggingFace
+* AUTH means the client can access a full selection of models, but some require authentication with HuggingFace
 # How to use
 1. Download the files from the release you need.
 2. Ensure you have Python 3.11 and up for best compatibility (the code did not work for me on lower versions). If you use older python versions for other scripts, I recommend to create a virtual environment.
