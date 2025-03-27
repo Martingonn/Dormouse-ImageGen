@@ -41,14 +41,14 @@ How to create python virtual environment:
 4. Follow the instructions. When pasting file paths, remove the "" signs. Input C:path/to/your/file instead of "C:path/to/yout/file"
 
 # Future Additions
-* Changing Stable Diffusion version
-* Add a way to use model training (load from file)
+* Make code locate local models itself and list them
 * Test .exe on windows without python/python libraries
 * config file to implement guardrails
 * a way to train off databases
   # Done
 * the model resizing images for training
-* Added use of other models
+* Added use of other models/changing Stable Diffusion version
+* Added a way to use model training (load from file)
 
 # Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Dormouse-ImageGen/total)
