@@ -42,13 +42,13 @@ How to create python virtual environment:
 
 # Future Additions
 * Changing Stable Diffusion version
-* (Maybe) adding other models
 * Add a way to use model training (load from file)
 * Test .exe on windows without python/python libraries
 * config file to implement guardrails
 * a way to train off databases
   # Done
 * the model resizing images for training
+* Added use of other models
 
 # Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Dormouse-ImageGen/total)
