@@ -36,7 +36,12 @@ How to create python virtual environment:
   A small, cute European hedgehog in field of shamrocks, looking right
   Small, cute hedgehog in hand, looking left
   A tiny, young hedgehog, looking forward, transparent background
-4. Follow the instructions. When pasting file paths, remove the "" signs. Input C:path/to/your/file instead of "C:path/to/yout/file"
+  The model will bind images with prompts like this:
+    image0/imageA -> Prompt1
+    image1/imageB -> Prompt2
+    image2/imageC -> Prompt3
+  It binds the images and prompts alphabetically.
+5. Follow the instructions. When pasting file paths, remove the "" signs. Input C:path/to/your/file instead of "C:path/to/yout/file"
 
 # Future Additions
 * Make code locate local models itself and list them
